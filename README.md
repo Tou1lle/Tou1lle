@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tuan</h1>
+<h3 align="center">Self learner, my goal is to become a Web Developer</h3>
+
+
+- 🌱 I’m currently learning Full Stack on [TOP](https://www.theodinproject.com/home)
+
+- 👨‍💻 All of my projects are available at [https://github.com/Tou1lle](https://github.com/Tou1lle)
+
+- 📫 How to reach me **hatuan@email.cz**
+
+- ⚡ Fun fact: I love 妥anime࿋ and 🎮gamingツ
 
 <!--
 **Tou1lle/Tou1lle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
