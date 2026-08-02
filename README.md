@@ -3,6 +3,7 @@
 
 
 - 🌱 I’m currently learning Full Stack on [TOP](https://www.theodinproject.com/home)
+  - The specific project I am working on is "Inventory Application": GitHub repo: [https://github.com/Tou1lle/inventory-application-top](https://github.com/Tou1lle/inventory-application-top)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tou1lle](https://github.com/Tou1lle)
 
